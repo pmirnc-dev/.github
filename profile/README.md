@@ -1,5 +1,5 @@
 ## 사랑과 온정이 넘치는 개발의 중심지 피앰아이 개발부에 오신 걸 환영합니다
-### 온라인 전문 기업인 피앰아이에서 다양한 과제 및 프로젝트를 수행하고 있습니다
+### 온라인 조사 전문 기업 피앰아이에서 다양한 과제 및 프로젝트를 수행하고 있습니다
 
 ![https://pmirnc.github.io/assets/images/teamcp01.jpg](https://pmirnc.github.io/assets/images/teamcp01.jpg)
 
