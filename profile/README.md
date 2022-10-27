@@ -21,4 +21,4 @@
 
 
 ### 기술블로그
-[https://pmirnc.github.io/](https://pmirnc.github.io/)
+[https://pmirnc.github.io/](https://pmirnc-dev.github.io/)
