@@ -1,7 +1,7 @@
 ## 우리는 한다. 코딩을
 ### 온라인 조사 전문 기업 피앰아이에서 다양한 과제 및 프로젝트를 수행하고 있습니다
 
-![https://pmirnc-dev.github.io/assets/images/teamcp07.jpeg](https://pmirnc-dev.github.io/assets/images/teamcp07.jpeg)
+![img.jpg](/assets/Image%20(2).jpg)
 
 
 
