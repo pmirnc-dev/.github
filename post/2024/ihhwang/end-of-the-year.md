@@ -196,7 +196,7 @@ DC팀 견적&미수금 관리는 오픈은 했고 유지보수 과정을 거치�
    정말 힘들었다...
 
     <div style="display: flex; width: 300px;">
-        <img src="./marathon.jpg" alt="">
+        <img src="./marathon.jpg" width="100%" alt="">
     </div>
 
 6. **정보처리기사 취득**    
