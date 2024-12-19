@@ -47,9 +47,9 @@
 
 나 혼자 감당할 사이즈를 넘어버리는 바람에 _울고싶었다_. 
 
-<div style="display: flex; width: 400px;">
-    <img src="./queen1.jpg" width="50%" alt="">
-    <img src="./queen2.jpg" width="50%" alt="">
+<div style="display: flex;">
+    <img src="./queen1.jpg" width="300px" alt="">
+    <img src="./queen2.jpg" width="300px" alt="">
 </div>
 
 다행히도 개발팀 분들의 도움으로 위기를 넘길 수 있었다.
@@ -195,8 +195,8 @@ DC팀 견적&미수금 관리는 오픈은 했고 유지보수 과정을 거치�
  
    정말 힘들었다...
 
-    <div style="display: flex; width: 300px;">
-        <img src="./marathon.jpg" width="100%" alt="">
+    <div style="display: flex;">
+        <img src="./marathon.jpg" width="300px" alt="">
     </div>
 
 6. **정보처리기사 취득**    
