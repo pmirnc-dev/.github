@@ -166,13 +166,13 @@ jsp 파일 하나에 1000줄이 넘게 들어간 코드는 태어나서 처음 �
 
 <div id="carousel" style="max-width: 400px; margin: auto;">
   <div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory;">
-    <img src="Image.jpg" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image1.png" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image2.png" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image3.png" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image4.png" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image5.png" alt="" style="scroll-snap-align: start; width: 100%;">
-    <img src="Image6.png" alt="" style="scroll-snap-align: start; width: 100%;">
+    <img src="Image.jpg" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image1.png" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image2.png" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image3.png" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image4.png" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image5.png" alt="" style="scroll-snap-align: start; width: 14%;">
+    <img src="Image6.png" alt="" style="scroll-snap-align: start; width: 14%;">
   </div>
 </div>
 
