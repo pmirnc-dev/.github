@@ -1,8 +1,7 @@
 ## 우리는 한다. 코딩을
 ### 온라인 조사 전문 기업 피앰아이에서 다양한 과제 및 프로젝트를 수행하고 있습니다
 
-![img.jpg](/assets/teamcp202505.jpeg)
-
+![Image (2)](https://github.com/user-attachments/assets/594c74cd-a6a3-406f-9042-20d78482d34f)
 
 
 #### 피앰아이 개발부의 기술 스택  
